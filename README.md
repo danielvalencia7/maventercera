@@ -13,3 +13,7 @@ mvn compile(no debe de dar error si las clases no tienen fallos) desde la carpet
 Tras su compilacion se crara una carpeta target con los .class de las clases anteriores que nos permitiran su uso.
 para verificar si testea correctamente para ver que lo que hay dentro del proyecto es correcto utilizaremos:
 mvn test desde la carpeta raiz del proyecto.
+
+
+
+
