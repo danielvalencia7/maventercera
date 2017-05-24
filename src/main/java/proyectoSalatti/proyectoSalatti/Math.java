@@ -8,4 +8,7 @@ public class Math {
     public int add() {
         return a + b;
     }
+    public int resta() {
+		return a - b;
+	}
 }
